@@ -1,2 +1,2 @@
-# My-first-folder
+# Myfirstfolder
 this is my first folder on github
